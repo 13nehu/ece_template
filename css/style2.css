@@ -1,0 +1,10 @@
+.header_logo
+{
+	background-image:url("back.jpg");
+}
+
+nav .nav-wrapper .brand-logo img{
+	
+    height: 63px;
+    opacity: 0.9;
+}
