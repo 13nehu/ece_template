@@ -3,8 +3,67 @@
 	background-image:url("back.jpg");
 }
 
+.back_img img
+{
+
+}
 nav .nav-wrapper .brand-logo img{
+
 	
     height: 63px;
     opacity: 0.9;
+}
+
+main{
+	position: relative;
+}
+
+.main .main_sec {
+	border: 2px solid black;
+border-radius: 9px;
+
+}
+
+.back_img{
+	position: relative;
+	
+	
+}
+.back_img img 
+{
+	position: absolute;
+	height: 100% ;
+	width: 100%;
+	
+	
+
+	
+
+}
+
+.main_heading{
+
+	background-color: #edf8f7;
+position: relative;
+	box-shadow: 2px; 
+}
+
+.main_heading p{
+	margin: 20px;
+}
+.main_heading .Proj_sec {
+margin: 20px;
+
+}
+
+.main_heading .proj_sec .proj img{
+	height: 200px;
+	 position: absolute;
+	width: 200px;
+}
+
+.main_heading .proj_sec .proj p {
+	margin: 40px 20px 20px 200px;
+    left: 101px;
+  
 }
